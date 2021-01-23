@@ -8,12 +8,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Pagina 1</title>
+        <title>Pagina 3</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <TopNav></TopNav>
       <SideNav></SideNav>
-      <Info nombre='Informacion 1'></Info>
+      <Info nombre='Informacion 3'></Info>
       <Footer></Footer>
     </div>
   )
